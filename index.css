@@ -1,0 +1,103 @@
+.container{
+    
+    margin-top: 150px;
+    
+}
+
+span{
+    font-size: 6.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+   
+} 
+.link1
+{
+ font-style: normal;
+ text-decoration: none;
+
+ 
+ 
+
+}
+.lang{
+    padding-top: 10px;
+    word-spacing: 2px;
+    
+}
+.btn
+{
+  margin-top: 10px; 
+  border-radius: 5px;
+  color: #686867;
+  height: 35px;
+  width: 13em;
+  border: none;
+  background-color: #f1f1f1;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.input
+{
+border-radius: 2em;
+height: 30px;
+width: 45em;
+background-image:url(./search.png);
+background-position: left;
+background-size: 20px;
+background-repeat: no-repeat;
+margin: 5px;
+backface-visibility: visible;
+}
+#one
+{
+ color: #4285f4;
+}
+#two
+{
+    color: #EA4335;
+}
+            
+#three
+{
+    color: #FBBC05;
+}
+#four
+{
+    color: #4285f4;
+}
+#five
+{
+    color: #34A853;
+}
+#six
+{
+    color: #EA4335;
+}
+.header
+{
+    font-size: 2.3px;
+    text-align: right;
+    padding-right: 10px;
+    word-spacing: 10px;
+    
+}
+.img1{
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.signin{
+    background-color: #4484f3;
+    border-radius: 3px;
+    height: 30px;
+    width: auto;
+    color: #ffffff;
+    border: none;
+    margin-top: 8px;
+    
+}
+.headerlink{
+    color: #9999A3;
+    text-decoration: none;  
+}
