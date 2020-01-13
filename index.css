@@ -1,6 +1,6 @@
 .container{
     
-    margin-top: 150px;
+    margin-top: 120px;
     
 }
 
@@ -98,6 +98,36 @@ backface-visibility: visible;
     
 }
 .headerlink{
+    color: #9999A3;
+    text-decoration: none;  
+}
+
+.footer{
+    background-color: #F2F2F2;
+    word-spacing: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.pfooter{
+    color: #8c8c8c;
+    padding-left: 40px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    font-size: 1em;
+    color: #9999A3;
+    text-decoration: none;  
+}
+.footerlink{
+    color: #8c8c8c;
+    font-size: 0.9em;
+    padding-right: 50px;
+    float: right;
+}
+footer{
+    margin-top: 60px;
+
+}
+.flink{
     color: #9999A3;
     text-decoration: none;  
 }
